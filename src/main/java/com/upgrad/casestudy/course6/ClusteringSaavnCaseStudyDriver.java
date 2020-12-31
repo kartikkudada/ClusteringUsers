@@ -72,8 +72,8 @@ import java.util.Map.Entry;
 
 public class ClusteringSaavnCaseStudyDriver {
 
-	static String accessKey = "AKIAUD5HVR7H74QGWA6F";
-	static String secretKey = "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";
+	static String accessKey = "";
+	static String secretKey = "";
 
 	private static String sourceFolderOrBucket = "bigdataanalyticsupgrad";
 	private static String clckStreamEndPoint = "s3a://bigdataanalyticsupgrad/activity/sample100mb.csv";
