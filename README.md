@@ -1,4 +1,4 @@
-# ClusteringUsers based on thier favorite singers 
+# ClusteringUsers based on their favorite singers 
 
 Using collaborative filtering on clickstream data (songId , userID , timestamp), Created clusters of users based on similar choice of artists they listen for . These clusters used for send notification to users when favorite artist launch any new song.
 
